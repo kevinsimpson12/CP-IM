@@ -1,5 +1,5 @@
 The CP-IM is a general stochastic model for spatial spread and (bi-stable) cell-state differentiation. 
-The model is an hybrid model mixing the Contact Process (CP), modelling bacterial colony growth on hard agar) and 
+The model is an hybrid model mixing the Contact Process (CP), modelling bacterial colony growth on hard agar and 
 the Ising Model (IM) modeling cell diffentiation and cell-cell interactions. 
 
 To model de CP, the code from the following repository is used:
