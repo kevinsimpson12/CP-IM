@@ -12,4 +12,4 @@ https://github.com/shivakar/rng-reference/blob/master/MT19937/mt64.h
 
 implementing the following algorithm:
 
-https://es.wikipedia.org/wiki/Mersenne_twister
+https://en.wikipedia.org/wiki/Mersenne_twister
